@@ -1,4 +1,4 @@
-### Hi, I'm Lucas 👋
+## Hi, I'm Lucas 👋
 
 
 - 🔭 Front-end intern at @lubysoftware, currently working with ReactJS.
